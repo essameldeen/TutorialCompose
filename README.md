@@ -1,8 +1,10 @@
 # TutorialCompose
-Some Tutorial with Comopse
+Some Tutorial with Jetpack Comopse
 
 # Topics :
 
-- Paginagtion with Compose
+- Paginagtion with Jetpack Compose
 
-- Bottom Sheet with Compose 
+- Bottom Sheet with Jetpack Compose
+
+- Drawe with Jetpack Compose
