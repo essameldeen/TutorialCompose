@@ -10,6 +10,8 @@ import com.example.tutorialcompose.navigation_drawer.NavigationDrawerScreen
 import com.example.tutorialcompose.paging.ScreenPaging
 
 import com.example.tutorialcompose.ui.theme.TutorialComposeTheme
+import com.example.tutorialcompose.vertical_grid.VerticalGridScreen
+
 class MainActivity : ComponentActivity() {
     @OptIn(ExperimentalMaterialApi::class)
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -18,8 +20,8 @@ class MainActivity : ComponentActivity() {
             TutorialComposeTheme {
                 //ScreenPaging()
                 //ScreenBottomSheet()
-                NavigationDrawerScreen()
-
+                //NavigationDrawerScreen()
+                VerticalGridScreen()
             }
         }
     }
